@@ -1,7 +1,7 @@
 # CS598-FP-HiTANet
+`Final Project, CS598 DLH Deep Learning for Healthcare, UIUC`
 
-This repository is a Pytorch implementation of [HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records](https://www.kdd.org/kdd2020/accepted-papers/view/hitanet-hierarchical-time-aware-attention-networks-for-risk-prediction-on-e).
-
+This repository is a Pytorch implementation of [HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records](https://www.kdd.org/kdd2020/accepted-papers/view/hitanet-hierarchical-time-aware-attention-networks-for-risk-prediction-on-e). Part of the code is adapted from the [official implementation](https://github.com/HiTANet2020/HiTANet).
 
 
 ## Requirements
