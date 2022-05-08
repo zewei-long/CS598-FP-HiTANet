@@ -6,7 +6,13 @@ This repository is a Pytorch implementation of [HiTANet: Hierarchical Time-Aware
 
 ## Requirements
 
-After downloading the ipynb file and sample dataset, you can run the ipynb file to train and test the model.
+#### Training
+
+To train and test the HiTANet model, you just need to download and run the `CS598DL4H_FP_HiTANet.ipynb` file with coresponding datasets (COPD, HF, or HF-sample).
+
+#### Data Extraction
+
+To extract the dataset from MIMIC-III, you can download and run the `CS598_extract_data.ipynb` file with the DIAGNOSES_ICD and ADMISSIONS tables in MIMIC-III.
 
 <!-- ## Training
 
@@ -40,6 +46,8 @@ Our model achieves the following performance on the sample of the heart failure 
 | ------------------ |-------|----|----- | --------|------ |
 | Our Implementation on Sample Dataset  |0.772 | 0.823 | 0.897 | 0.857 | 0.630  |
 | Reported Result on Full Dataset  |0.823 | 0.724 | 0.587 | 0.647 | 0.564  |
+
+More experiements on HiTANET-C1 and HiTANet-C2 is in the final report.
 <!-- 
 
 ## Contributing
