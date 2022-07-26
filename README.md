@@ -47,7 +47,7 @@ Our model achieves the following performance on the sample of the heart failure 
 | Our Implementation on Sample Dataset  |0.772 | 0.823 | 0.897 | 0.857 | 0.630  |
 | Reported Result on Full Dataset  |0.823 | 0.724 | 0.587 | 0.647 | 0.564  |
 
-More experiements on HiTANET-C1 and HiTANet-C2 is in the [final report](https://github.com/zewei-long/CS598-FP-HiTANet/blob/main/CS598DL4H_FP.pdf).
+More experiements on HiTANET-C1 and HiTANet-C2 is available [here](https://github.com/zewei-long/CS598-FP-HiTANet/blob/main/CS598DL4H_FP.pdf).
 <!-- 
 
 ## Contributing
